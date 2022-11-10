@@ -1,0 +1,5 @@
+Song Title: Title Goes Here
+Album: Album Goes Here
+Artist: Artist Goes Here
+Duration: Duration Goes Here
+Genre: Genre Goes Here
